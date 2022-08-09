@@ -1,4 +1,4 @@
-Hi 👋 My name is William García
+Hola 👋 mi nombre es William García
 ===============================
 
 Ingeniero en Informática
