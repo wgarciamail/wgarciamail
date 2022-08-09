@@ -4,9 +4,9 @@ Hola 👋 mi nombre es William García
 Ingeniero en Informática
 ------------------------
 
-Tengo 15 años de experiencia en el desarrollador de software. Actualmente formo parte del equipo como Director de Sistemas para Traetelo.com, empresa encargada de venta y logística de productos retail de última milla asociada a area de moda, restaturantes y supermercados. Soy apacionado de las tecnología y creo en aprendizaje continuo.
+Tengo 15 años de experiencia en el desarrollador de software. Actualmente formo parte de un equipo como Director de Sistemas para Traetelo.com, empresa encargada de venta y logística de productos retail de última milla asociada a area de moda, restaturantes y supermercados. Soy apacionado de las tecnología y creo en aprendizaje continuo.
 
-* 🌍  I'm based in Carcas, Venezuela
+* 🌍  me encuentro en Carcas, Venezuela
 * 🖥️  See my portfolio at [William](http://william.com)
 * ✉️  You can contact me at [wgarciamail@gmail.com](mailto:wgarciamail@gmail.com)
 * 🚀  I'm currently working on [Traetelo](http://traetelo.com)
