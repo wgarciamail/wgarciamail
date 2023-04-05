@@ -6,7 +6,7 @@ Ingeniero en Informática
 
 Tengo 15 años de experiencia como desarrollador de software. Actualmente formo parte de un equipo como Director de Sistemas para Traetelo.com, empresa encargada de venta y logística de productos retail de última milla asociada al área de moda, restaurantes y supermercados. Soy apasionado de las tecnología y creo en el aprendizaje continuo.
 
-* 🌍  Me encuentro en Carcas, Venezuela
+* 🌍  Me encuentro en Caracas, Venezuela
 * 🖥️  Ver mi portafolio [William](http://william.com)
 * ✉️  Puedes contactar conmigo en [wgarciamail@gmail.com](mailto:wgarciamail@gmail.com)
 * 🚀  Actualmente estoy trabajando en [Traetelo](http://traetelo.com)
