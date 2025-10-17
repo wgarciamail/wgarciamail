@@ -1,48 +1,34 @@
-Hola 👋 mi nombre es William García
-===============================
+# William García — Arquitecto de Software / CTO e-Commerce LATAM
 
-Ingeniero en Informática
-------------------------
+Construyo plataformas de **e-commerce omnicanal** y herramientas de **logística de última milla** para retail (moda, calzado, supermercados) en LATAM. Me enfoco en **arquitecturas escalables**, **DX simple** y **time-to-market**.
 
-Tengo 15 años de experiencia como desarrollador de software. Actualmente formo parte de un equipo como Director de Sistemas para Traetelo.com, empresa encargada de venta y logística de productos retail de última milla asociada al área de moda, restaurantes y supermercados. Soy apasionado de las tecnología y creo en el aprendizaje continuo.
+- 🧭 CTO/Director de Sistemas en **Traetelo.com** (retail & fulfillment)
+- 🧪 Fundador/Tech lead en **TryCloud**: virtual try-on + marketplace impulsado por IA
+- 🛍️ He liderado implementaciones para marcas como **New Balance Colombia** y **Miniso Venezuela** (pasarelas, OMS, inventarios, preventa, sucursales)
+- 🧰 Hoy trabajo con: **Python (FastAPI, SQLAlchemy)** • **Next.js + Tailwind** • **MongoDB/MariaDB** • **AWS (EC2, RDS, S3, SQS, Lambda, OpenSearch)** • **VTEX/Shopify APIs** • **CI/CD** • **ElevenLabs + chat/voz**
 
-* 🌍  Me encuentro en Caracas, Venezuela
-* 🖥️  Ver mi portafolio [William](http://william.com)
-* ✉️  Puedes contactar conmigo en [wgarciamail@gmail.com](mailto:wgarciamail@gmail.com)
-* 🚀  Actualmente estoy trabajando en [Traetelo](http://traetelo.com)
-* 🧠  Estoy aprendiendo  AWS Open Search, kubernetes.
-* 💬  Preguntame sobre e-commerce, php, servidores web, aws, apis.
-* ⚡  Apacionado a la tecnología y al deporte running 🏃‍ y natación 🏊‍♀️.
+## 🚀 Proyectos destacados
+- **ecommerce-fastapi-template** — Plantilla production-ready: FastAPI + SQLAlchemy + JWT + Alembic + tests + GitHub Actions. 
+- **nextjs-multidomain-starter** — Multi-tenant / multi-domain con layouts por marca, Tailwind, ISR y feature flags.
+- **vtex-sync-pipeline** — Ingesta y sincronización de catálogos VTEX (100k SKUs): precios, stock por almacén, categorías.
+- **ai-chat-widget** — Chat flotante con voz (ElevenLabs), recomendaciones por embeddings y carrito persistente.
+- **shopify-mrw-app** — App de envíos: agencias MRW en checkout + generación/impresión de guías + tracking.
 
-### Skills
+> Si algún repo es privado por NDA, aquí verás **demos y plantillas** con la misma arquitectura.
 
-<p align="left">
-<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
-<a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
-<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
-<a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dot-net-colored.svg" width="36" height="36" alt=".NET" /></a>
-<a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="36" height="36" alt="Flutter" /></a>
-</p>
+## 🧱 Stack y enfoque
+- **Backend**: FastAPI, SQLAlchemy, Pydantic, Celery/SQS, Redis, OpenSearch
+- **Frontend**: Next.js, React, Tailwind, TanStack Query
+- **Data/DB**: MariaDB (RDS), MongoDB Atlas (vector search), S3 (data lake)
+- **Cloud/DevOps**: AWS (EC2, ALB, S3, RDS, Lambda, SQS, Secrets Manager), Nginx, Docker, GitHub Actions
+- **e-commerce**: VTEX APIs, Shopify Admin/Checkout Extensibility
+- **AI/Voice**: ElevenLabs WS, CLIP/embeddings
 
+## 📚 Publicaciones y guías (WIP)
+- “Multi-tenant e-commerce con Next.js (multidominio, temas, datos compartidos)”
+- “De script a **servicio web**: migrando a FastAPI con tests y CI en 1 día”
+- “Ingesta de 100k SKUs: colas, backpressure y costos en AWS”
 
-### Socials
-
-<p align="left"> <a href="https://www.github.com/wgarciamail" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/william-garcia-93492917/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
-
-### Badges
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/wgarciamail"><img src="https://github-readme-stats.vercel.app/api?username=wgarciamail&show_icons=true&hide=prs,issues,contribs&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="wgarciamail's GitHub stats" /></a>
-
-<a href="http://www.github.com/wgarciamail"><img src="https://github-readme-streak-stats.herokuapp.com/?user=wgarciamail&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-### Support Me
-
-<a href="https://www.buymeacoffee.com/wgarcia"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
+## 📫 Contacto
+- ✉️ wgarciamail@gmail.com
+- 💼 LinkedIn: [(agrega tu URL)](https://www.linkedin.com/in/william-garcia-93492917/)
