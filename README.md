@@ -17,7 +17,7 @@ Construyo plataformas de **e-commerce omnicanal** y herramientas de **logística
 > Si algún repo es privado por NDA, aquí verás **demos y plantillas** con la misma arquitectura.
 
 ## 🧱 Stack y enfoque
-- **Backend**: FastAPI, SQLAlchemy, Pydantic, Celery/SQS, Redis, OpenSearch
+- **Backend**: ASP.NET API, FastAPI, AWS, Redis, OpenSearch
 - **Frontend**: Next.js, React, Tailwind, TanStack Query
 - **Data/DB**: MariaDB (RDS), MongoDB Atlas (vector search), S3 (data lake)
 - **Cloud/DevOps**: AWS (EC2, ALB, S3, RDS, Lambda, SQS, Secrets Manager), Nginx, Docker, GitHub Actions
